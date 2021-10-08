@@ -1,5 +1,7 @@
 # NaqshSaz-Designs
 
+Some sample Rug/carpet designs by NaqshSaz software.
+
 ## Designs
 
 | | |
